@@ -24,7 +24,7 @@ rendererComponent.postproduction.enabled = true
 
 new OBC.SimpleGrid(viewer, new THREE.Color(0x666666))
 
-const highlighter = new OBC.FragmentHighlighter(viewer)
+const highlighter = new OBC.FragmentHighlighter(viewer)4545445454511225447441
 highlighter.setup()
 const propertiesProcessor = new
 OBC.IfcPropertiesProcessor(viewer)
